@@ -1,0 +1,6 @@
+README.md
+pyproject.toml
+fastapi_masterclass.egg-info/PKG-INFO
+fastapi_masterclass.egg-info/SOURCES.txt
+fastapi_masterclass.egg-info/dependency_links.txt
+fastapi_masterclass.egg-info/top_level.txt

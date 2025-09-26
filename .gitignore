@@ -1,0 +1,66 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging / build artefacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-wheel-metadata/
+
+# Test and coverage outputs
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.cache/
+
+# Linters / type checkers
+.ruff_cache/
+.mypy_cache/
+.pytype/
+.pyre/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs / local databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.iml
+.spyproject/
+.ropeproject/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Task runners / env tools
+.tox/
+.nox/
+.python-version
+.tool-versions
+
+# uv (package manager) lockfile if used
+uv.lock
+
+# Docs site (if generated)
+site/
